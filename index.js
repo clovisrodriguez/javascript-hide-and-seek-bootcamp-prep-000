@@ -27,4 +27,4 @@ function deepestChild() {
   return node
 }
 
-deepestChild()
+console.log(deepestChild())
